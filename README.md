@@ -1,1 +1,1 @@
-### have already export the database check the file with name sql then import it to your database then you are good to go
+### have already export the database check the file with name php_crud.sql then import it to your database then you are good to go
